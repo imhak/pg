@@ -41,7 +41,7 @@ My hobby is reading (yes, such a cliche). As a pro-digitalize everything freak, 
   > 
   > [Click here for PDF.](https://git.io/Jt4qa)
 
-## Contact Me
+## Contact Me 🕊
 📧 imrh@protonmail.com
 
 *Note: I don't do social media*

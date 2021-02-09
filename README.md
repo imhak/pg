@@ -32,9 +32,9 @@ My hobby is reading (yes, such a cliche). As a pro-digitalize everything freak, 
   > [Go to project page.](https://git.io/Jt4qz)
 - Office 365 from PowerShell Project
   > Managing Office 365 tenants from PowerShell.
-  
+  >
   > Utilizes AzureAD PowerShell Module to interface with PowerShell.
-  
+  >
   > [Go to project page.](https://git.io/Jt4q2)
 - Ticketing System Management Using Spiceworks
   > A project to implement a ticketing system management using Spiceworks.

@@ -21,7 +21,7 @@ My hobby is reading (yes, such a cliche). As a pro-digitalize everything freak, 
   >
   > [Go to project page.](https://git.io/Jt4qR)
 - WhatsApp Automation App
-  > Automation system with WhatsApp Web acts as a gateway.
+  > Automation system with WhatsApp Web that acts as a gateway.
   > 
   > Uses Selenium and PyQt5 to create an automation platform.
   > 

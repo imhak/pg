@@ -20,6 +20,12 @@ My hobby is reading (yes, such a cliche). As a pro-digitalize everything freak, 
   > Demonstrating Python web scraper and scrape for relevant data.
   >
   > [Go to project page.](https://git.io/Jt4qR)
+- WhatsApp Automation App
+  > Automation system with WhatsApp Web acts as a gateway.
+  > 
+  > Uses Selenium and PyQt5 to create an automation platform.
+  > 
+  > [Go to project page.](https://git.io/JtSiO)
 - HomeLab
   > A local computer server for virtualize environment.
   >
